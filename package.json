@@ -1,0 +1,8 @@
+{
+  "name": "node-starter",
+  "private": true,
+  "type": "commonjs",
+  "scripts": {
+    "test": "node test.js"
+  }
+}
